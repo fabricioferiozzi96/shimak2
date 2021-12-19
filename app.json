@@ -4,9 +4,9 @@
     "slug": "shimak",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/shimakLogo.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/shimakLogo.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "",
+    "githubUrl": "https://github.com/fabricioferiozzi96/shimak"
   }
 }
