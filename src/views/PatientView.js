@@ -1,12 +1,12 @@
 import React from 'react';
 import { Text, View } from 'react-native';
 
-const ShiftView = () => {
+const PatientView = () => {
   return (
     <View>
-      <Text>ShiftView...</Text>
+      <Text>PatientView...</Text>
     </View>
   )
 }
 
-export default ShiftView
+export default PatientView

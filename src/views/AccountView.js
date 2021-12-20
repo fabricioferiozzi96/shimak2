@@ -1,12 +1,12 @@
 import React from 'react';
 import { Text, View } from 'react-native';
 
-const ShiftView = () => {
+const AccountView = () => {
   return (
     <View>
-      <Text>ShiftView...</Text>
+      <Text>AccountView...</Text>
     </View>
   )
 }
 
-export default ShiftView
+export default AccountView
